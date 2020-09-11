@@ -10,3 +10,5 @@ Hello, I am [Chaitanya Gupta](https://www.linkedin.com/in/guptachaitanya/) and l
 - 📫 How to reach me: [Chaitanya Gupta](https://www.linkedin.com/in/guptachaitanya/)
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: You just need to type your username in Repository name for creating your github readme. Go ahead and do that if not already!
+
+[![Chaitanya's github stats](https://github-readme-stats.vercel.app/api?username=Chaitanya31612&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
