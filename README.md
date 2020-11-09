@@ -3,7 +3,7 @@
 Hello, I am [Chaitanya Gupta](https://www.linkedin.com/in/guptachaitanya/) and love working on new and exciting technologies emerging nowadays. 
 
 - 🔭 I’m currently working on anything I find exciting.
-- 🌱 I’m currently learning Web designs, Python, Machine learning.
+- 🌱 I’m currently learning Web designs and technologies, Machine learning.
 - 👯 I’m looking to collaborate on MERN Stack projects with ML integration.
 - 🤔 I’m looking for help with Machine Learning and Data Science
 - 💬 Ask me about Web Technologies
