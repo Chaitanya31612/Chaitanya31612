@@ -9,7 +9,11 @@ Hello, I am [Chaitanya Gupta](https://www.linkedin.com/in/guptachaitanya/) and l
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: You just need to type your username in Repository name for creating your github readme. Go ahead and do that if not already!
 
+<br>
+
 <h3>Tools and Languages I have worked with 👩‍💻</h3>
+
+<br>
 
 <p align="left"> 
 <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
@@ -25,5 +29,37 @@ Hello, I am [Chaitanya Gupta](https://www.linkedin.com/in/guptachaitanya/) and l
 <a href="https://sass-lang.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> 
 </p>
 
-![](https://komarev.com/ghpvc/?username=Chaitanya31612)
+<br>
 
+
+<p align="center">
+ <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="Github Readme Stats" />
+</p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Chaitanya31612" alt="Chaitanya31612"/> </p> 
+
+<!--![](https://komarev.com/ghpvc/?username=Chaitanya31612)-->
+
+
+<br>
+<p align="center">
+  
+<img src="https://metrics.lecoq.io/Chaitanya31612" alt="Github Metrics">
+  
+  <br>
+  
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Chaitanya31612" alt="Github Streak Stats">
+  
+</p>
+
+<br>
+
+# Github Stats 📈
+
+<div align ="center">
+ 
+ [![Chaitanya's github stats](https://github-readme-stats.vercel.app/api?username=Chaitanya31612&show_icons=true)](https://github.com/Chaitanya31612)
+</div>
+<div align ="center">
+ 
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chaitanya31612)](https://github.com/Chaitanya31612)
+</div>
