@@ -42,7 +42,7 @@ Hello, I am [Chaitanya Gupta](https://www.linkedin.com/in/guptachaitanya/) and l
 </div>
 <div align ="center">
  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chaitanya31612)](https://github.com/Chaitanya31612)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chaitanya31612&layout=compact)](https://github.com/Chaitanya31612)
 </div>
 
 <h3>Tools and Languages I have worked with 👩‍💻</h3>
