@@ -37,7 +37,8 @@ Hello, I am [Chaitanya Gupta](https://www.linkedin.com/in/guptachaitanya/) and l
 
 <div align ="center">
  
- [![Chaitanya's github stats](https://github-readme-stats.vercel.app/api?username=Chaitanya31612&show_icons=true)](https://github.com/Chaitanya31612)
+ [![Chaitanya's github stats](https://github-readme-stats.vercel.app/api?username=Chaitanya31612&count_private=true&show_icons=true)](https://github.com/Chaitanya31612)
+
 </div>
 <div align ="center">
  
