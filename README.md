@@ -2,6 +2,8 @@
 
 Hello, I am [Chaitanya Gupta](https://www.linkedin.com/in/guptachaitanya/) and love working on new and exciting technologies emerging nowadays. 
 
+<img align="right" width="200px" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif?response_id=59245c7c1f1da9f614a280d5" alt="programming meme">
+
 - 🌱 I’m currently learning Web designs,Typescript, GraphQL, Django.
 - 👯 I’m looking to collaborate on MERN Stack projects.
 - 💬 Ask me about Web Technologies
@@ -10,7 +12,6 @@ Hello, I am [Chaitanya Gupta](https://www.linkedin.com/in/guptachaitanya/) and l
 - ⚡ Fun fact: You just need to type your username in Repository name for creating your github readme. Go ahead and do that if not already!
 
 <br>
-
 
 <p align="center">
  <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="Github Readme Stats" />
