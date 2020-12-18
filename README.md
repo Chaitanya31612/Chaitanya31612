@@ -36,15 +36,14 @@ Hello, I am [Chaitanya Gupta](https://www.linkedin.com/in/guptachaitanya/) and l
 
 # Github Stats 📈
 
-<div align ="center">
- 
- [![Chaitanya's github stats](https://github-readme-stats.vercel.app/api?username=Chaitanya31612&count_private=true&show_icons=true)](https://github.com/Chaitanya31612)
-
-</div>
-<div align ="center">
- 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chaitanya31612&layout=compact)](https://github.com/Chaitanya31612)
-</div>
+<a href="https://github.com/Chaitanya31612">
+    <img src="https://github-readme-stats.vercel.app/api?username=Chaitanya31612&count_private=true&show_icons=true&hide_border=true"
+                    width="51%" />
+</a>
+<a href="https://github.com/Chaitanya31612">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chaitanya31612&layout=compact&hide_border=true"
+                    width="43%" />
+</a>
 
 <h3>Tools and Languages I have worked with 👩‍💻</h3>
 
