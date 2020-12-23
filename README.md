@@ -1,4 +1,4 @@
-# Hello 👋
+# Namaste 🙏
 
 Hello, I am [Chaitanya Gupta](https://www.linkedin.com/in/guptachaitanya/) and love working on new and exciting technologies emerging nowadays. 
 
