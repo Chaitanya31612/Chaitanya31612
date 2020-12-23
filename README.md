@@ -1,6 +1,6 @@
 # Namaste 🙏
 
-Hello, I am [Chaitanya Gupta](https://www.linkedin.com/in/guptachaitanya/) and love working on new and exciting technologies emerging nowadays. 
+Hello, I am [Chaitanya Gupta](https://www.linkedin.com/in/guptachaitanya/) and I love working on new and exciting technologies emerging nowadays. 
 
 <img align="right" width="200px" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif?response_id=59245c7c1f1da9f614a280d5" alt="programming meme">
 
