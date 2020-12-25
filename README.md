@@ -40,7 +40,7 @@ Hello, I am [Chaitanya Gupta](https://www.linkedin.com/in/guptachaitanya/) and I
     <img src="https://github-readme-stats.vercel.app/api?username=Chaitanya31612&count_private=true&show_icons=true&hide_border=true"
                     width="51%" />
 </a>
-<a href="https://github.com/Chaitanya31612">
+<a href="https://github.com/Chaitanya31612?tab=repositories">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chaitanya31612&layout=compact&hide_border=true"
                     width="43%" />
 </a>
