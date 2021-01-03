@@ -44,11 +44,9 @@ Hello, I am [Chaitanya Gupta](https://www.linkedin.com/in/guptachaitanya/) and I
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chaitanya31612&layout=compact&hide_border=true"
                     width="43%" />
 </a>
-
-<h3>Tools and Languages I have worked with 👩‍💻</h3>
-
-<br>
 <!--
+<h3>Tools and Languages I have worked with 👩‍💻</h3>
+<br>
 <p align="left"> 
 <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
