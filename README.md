@@ -1,4 +1,7 @@
-# Namaste 🙏
+<!--# Namaste 🙏-->
+<div align="center">
+<img src="https://miro.medium.com/max/700/1*OohqW5DGh9CQS4hLY5FXzA.png" alt="Hello World">
+</div>
 
 Hello, I am [Chaitanya Gupta](https://www.linkedin.com/in/guptachaitanya/) and I love working on new and exciting technologies emerging nowadays. 
 
