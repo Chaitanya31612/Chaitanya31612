@@ -1,7 +1,9 @@
 <!--# Namaste 🙏-->
 <div align="center">
-<img src="https://miro.medium.com/max/700/1*OohqW5DGh9CQS4hLY5FXzA.png" alt="Hello World">
+<img src="https://miro.medium.com/max/1600/1*0KFB17_NGTPB0XWyc4BSgQ.jpeg" alt="Hello World">
 </div>
+
+<br>
 
 Hello, I am [Chaitanya Gupta](https://www.linkedin.com/in/guptachaitanya/) and I love working on new and exciting technologies emerging nowadays. 
 
