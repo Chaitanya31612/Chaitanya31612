@@ -1,7 +1,7 @@
 <!--# Namaste 🙏-->
 <div align="center">
 <!-- <img src="https://miro.medium.com/max/1600/1*0KFB17_NGTPB0XWyc4BSgQ.jpeg" alt="Hello World"> -->
-<img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" alt="Hello World">
+<img height="300px" src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" alt="Hello World">
  
 </div>
 
