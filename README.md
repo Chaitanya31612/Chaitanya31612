@@ -13,7 +13,7 @@ Hello, I am [Chaitanya Gupta](https://www.linkedin.com/in/guptachaitanya/) and I
 
  <img align="right" width="250px" src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" alt="gif">
 
-- 🌱 I’m currently learning Web designs,Typescript, GraphQL.
+- 🌱 I’m currently learning Web designs, Typescript, GraphQL, Open Sourcing.
 - 👯 I’m looking to collaborate on MERN Stack projects.
 - 💬 Ask me about Web Technologies
 - 📫 How to reach me: [Chaitanya Gupta](https://www.linkedin.com/in/guptachaitanya/)
