@@ -16,7 +16,7 @@ Hello, I am [Chaitanya Gupta](https://www.linkedin.com/in/guptachaitanya/) and I
 - 🌱 I’m currently learning Web designs, Wireframing and Prototyping, Open Sourcing, Competitive Programming.
 - 👯 I’m looking to collaborate on MERN Stack projects.
 - 💬 Ask me about Web Technologies
-- 📫 How to reach me: [Chaitanya Gupta](https://www.linkedin.com/in/guptachaitanya/)
+- 📫 My Website: https://chaitanya31612.github.io/
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: You just need to type your username in Repository name for creating your github readme. Go ahead and do that if not already!
 
