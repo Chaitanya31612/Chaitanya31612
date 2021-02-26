@@ -54,5 +54,7 @@ Hello, I am [Chaitanya Gupta](https://www.linkedin.com/in/guptachaitanya/) and I
                     width="43%" />
 </a>
 
+<br>
+<img src="https://activity-graph.herokuapp.com/graph?username=Chaitanya31612&show_icons=true&count_private=true&area=true&hide_border=true" />
 
 <br>
