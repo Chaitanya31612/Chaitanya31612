@@ -37,7 +37,7 @@ Hello, I am [Chaitanya Gupta](https://www.linkedin.com/in/guptachaitanya/) and I
   
   <br>
   
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Chaitanya31612" alt="Github Streak Stats">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Chaitanya31612&theme=algolia" alt="Github Streak Stats">
   
 </p>
 
