@@ -77,7 +77,7 @@ Hello, I am [Chaitanya Gupta](https://www.linkedin.com/in/guptachaitanya/) and I
 <!--<img src="https://activity-graph.herokuapp.com/graph?username=Chaitanya31612&show_icons=true&count_private=true&area=true&hide_border=true" /> -->
 
 <h3 align="center">Find me here:</h3>
-<p align="left">
+<p align="center">
  <a href="https://www.leetcode.com/Chaitanya31612" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Chaitanya31612/" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/guptachaitanya31/practice/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="gfg" height="30" width="40" /></a>
  <a href="https://www.linkedin.com/in/guptachaitanya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="guptachaitanya" height="30" width="40" /></a>
