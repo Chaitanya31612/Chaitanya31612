@@ -15,8 +15,8 @@ Hello, I am [Chaitanya Gupta](https://www.linkedin.com/in/guptachaitanya/) and I
  
   <br><br>
  
-- 🌱 I’m currently learning Web designs, Wireframing and Prototyping, Open Sourcing, Competitive Programming.
-- 👯 I’m looking to collaborate on MERN Stack projects.
+- 🌱 I’m currently learning Blockchain Development, Web Development, Web designs.
+- 👯 I’m looking to collaborate on MERN Stack projects and Blockchain Projects.
 - 💬 Ask me about Web Technologies
 - 📫 My Website: https://chaitanya31612.github.io/
 - 😄 Pronouns: He/him
