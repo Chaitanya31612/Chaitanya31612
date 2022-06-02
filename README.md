@@ -9,9 +9,11 @@
 
 Hello, I am [Chaitanya Gupta](https://www.linkedin.com/in/guptachaitanya/) and I love working on new and exciting technologies emerging nowadays. 
 
-<!-- <img align="right" width="200px" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif?response_id=59245c7c1f1da9f614a280d5" alt="programming meme"> -->
+<img align="right" width="200px" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="programming meme">
  
- <img align="right" width="150px" src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" alt="gif">
+<!--  <img align="right" width="150px" src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" alt="gif"> -->
+ 
+  <br><br>
  
 - 🌱 I’m currently learning Web designs, Wireframing and Prototyping, Open Sourcing, Competitive Programming.
 - 👯 I’m looking to collaborate on MERN Stack projects.
@@ -24,8 +26,9 @@ Hello, I am [Chaitanya Gupta](https://www.linkedin.com/in/guptachaitanya/) and I
 
 <p align="center">
  <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="Github Readme Stats" />
+ <p align="center"> <img src="https://komarev.com/ghpvc/?username=Chaitanya31612" alt="Chaitanya31612"/> </p> 
 </p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Chaitanya31612" alt="Chaitanya31612"/> </p> 
+
 
 <!--![](https://komarev.com/ghpvc/?username=Chaitanya31612)-->
 
