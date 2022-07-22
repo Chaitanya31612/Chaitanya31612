@@ -7,6 +7,12 @@
 
 <br>
 
+<h1 align="center">Hello Geeks 👋, I'm Chaitanya Gupta</h1>
+<h3 align="center">Full Stack Web Developer and Web Designer</h3>
+<br>
+
+<br>
+
 Hello, I am [Chaitanya Gupta](https://www.linkedin.com/in/guptachaitanya/) and I love working on new and exciting technologies emerging nowadays. 
 
 <img align="right" width="200px" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="programming meme">
