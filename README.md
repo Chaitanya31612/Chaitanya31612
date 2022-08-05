@@ -8,7 +8,7 @@
 <br>
 
 <h1 align="center">Hello Geeks 👋, I'm Chaitanya Gupta</h1>
-<h3 align="center">Full Stack Web Developer and Web Designer</h3>
+<h3 align="center">Full Stack Web Developer and UI/UX Designer</h3>
 <br>
 
 <br>
