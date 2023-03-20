@@ -42,9 +42,8 @@ Hello, I am [Chaitanya Gupta](https://www.linkedin.com/in/guptachaitanya/) and I
 <br>
 <p align="center">
   
-<img src="https://metrics.lecoq.io/Chaitanya31612" alt="Github Metrics">
+<!-- <img src="https://metrics.lecoq.io/Chaitanya31612" alt="Github Metrics"> -->
   
-  <br>
   
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chaitanya31612&theme=algolia" alt="Github Streak Stats">
   
@@ -84,7 +83,7 @@ Hello, I am [Chaitanya Gupta](https://www.linkedin.com/in/guptachaitanya/) and I
 </a>
 
 <br><br>
-![Chaitanya](https://activity-graph.herokuapp.com/graph?username=Chaitanya31612&theme=react-dark&show_icons=true&count_private=true&area=true&hide_border=true)
+<!-- ![Chaitanya](https://activity-graph.herokuapp.com/graph?username=Chaitanya31612&theme=react-dark&show_icons=true&count_private=true&area=true&hide_border=true) -->
 <!--<img src="https://activity-graph.herokuapp.com/graph?username=Chaitanya31612&show_icons=true&count_private=true&area=true&hide_border=true" /> -->
 
 <h3 align="center">Find me here:</h3>
