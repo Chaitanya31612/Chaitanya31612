@@ -14,14 +14,12 @@
 </p>
 <br>
 
-<br>
-
 <!-- Hello, I am [Chaitanya Gupta](https://www.linkedin.com/in/guptachaitanya/) I am a Full Stack Web Developer and web designer. I am fascinated by new technologies, trying every day to learn something new and exciting. Currently wishing to learn more and more exciting technologies and combine the knowledge into something useful and required by society. -->
 
 <!-- <img align="right" width="200px" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="programming meme"> -->
  
 <!--  <img align="right" width="150px" src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" alt="gif"> -->
- <br>
+ 
 
   ## 📫 About me
 - 🌱 I’m currently learning Blockchain Development, Web Development, Web designs.
