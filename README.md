@@ -9,25 +9,28 @@
 
 <h1 align="center">Hello Geeks 👋, I'm Chaitanya Gupta</h1>
 <h3 align="center">Full Stack Web Developer and UI/UX Designer</h3>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Web+Developer;UI/UX+Designer;Blockchain+Developer;Software+Engineer;&center=true&width=500&height=50"></a>
+</p>
 <br>
 
 <br>
 
-Hello, I am [Chaitanya Gupta](https://www.linkedin.com/in/guptachaitanya/) I am a Full Stack Web Developer and web designer. I am fascinated by new technologies, trying every day to learn something new and exciting. Currently wishing to learn more and more exciting technologies and combine the knowledge into something useful and required by society.
+<!-- Hello, I am [Chaitanya Gupta](https://www.linkedin.com/in/guptachaitanya/) I am a Full Stack Web Developer and web designer. I am fascinated by new technologies, trying every day to learn something new and exciting. Currently wishing to learn more and more exciting technologies and combine the knowledge into something useful and required by society. -->
 
 <!-- <img align="right" width="200px" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="programming meme"> -->
  
 <!--  <img align="right" width="150px" src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" alt="gif"> -->
  
   <br><br>
- <!-- 
+  
 - 🌱 I’m currently learning Blockchain Development, Web Development, Web designs.
 - 👯 I’m looking to collaborate on MERN Stack projects and Blockchain Projects.
 - 💬 Ask me about Web Technologies
 - 📫 My Website: https://chaitanya31612.github.io/
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: You just need to type your username in Repository name for creating your github readme. Go ahead and do that if not already!
--->
+
 <br>
 
 <p align="center">
