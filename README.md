@@ -21,9 +21,9 @@
 <!-- <img align="right" width="200px" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="programming meme"> -->
  
 <!--  <img align="right" width="150px" src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" alt="gif"> -->
- 
-  <br><br>
-  
+ <br>
+
+  ## 📫 About me
 - 🌱 I’m currently learning Blockchain Development, Web Development, Web designs.
 - 👯 I’m looking to collaborate on MERN Stack projects and Blockchain Projects.
 - 💬 Ask me about Web Technologies
