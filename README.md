@@ -22,13 +22,16 @@
  
 
   ## 📫 About me
-- 🌱 I’m currently learning Blockchain Development, Web Development, Web designs.
-- 👯 I’m looking to collaborate on MERN Stack projects and Blockchain Projects.
+  I am a Software engineer with a strong foundation in Computer Science, specializing in web development. Being adaptive to new technologies and concepts and growing by consistent learning regularly. Proficient in a range of technologies, I've successfully delivered tailored solutions for various freelance projects.
+I love working on new and exciting technologies. I have a keen interest in Web Development and I am always looking for new opportunities to learn and grow.
+
+- 🌱 I’m currently learning Web Development and designs, Cloud, Blockchain, Mobile, System Design.
 - 💬 Ask me about Web Technologies
-- 📫 My Website: https://chaitanya31612.github.io/
+- 👨🏻‍💻 My Website: https://chaitanya31612.github.io/
+- 📫 Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/guptachaitanya/)
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: You just need to type your username in Repository name for creating your github readme. Go ahead and do that if not already!
-
+  
 <br>
 
 <p align="center">
@@ -45,7 +48,9 @@
   
 <!-- <img src="https://metrics.lecoq.io/Chaitanya31612" alt="Github Metrics"> -->
   
-  
+<!-- <a href="https://github.com/Chaitanya31612"> -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Chaitanya31612&count_private=true&show_icons=true&theme=algolia" />
+<!-- </a>  -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chaitanya31612&theme=algolia" alt="Github Streak Stats">
   
 </p>
@@ -82,14 +87,12 @@
 
 # Github Stats 📈
 
-<a href="https://github.com/Chaitanya31612">
-    <img src="https://github-readme-stats.vercel.app/api?username=Chaitanya31612&count_private=true&show_icons=true&hide_border=true&theme=algolia"
-                    width="51%" />
+
+<div align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chaitanya31612&layout=compact&langs_count=10&hide_border=false&theme=algolia" width="45%" />
 </a>
-<a href="https://github.com/Chaitanya31612?tab=repositories">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chaitanya31612&layout=compact&langs_count=10&hide_border=true&theme=algolia"
-                    width="48%" />
-</a>
+<br><br>
+<a href="https://github.com/Chaitanya31612/github-readme-activity-graph"><img alt="Chaitanya's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Chaitanya31612&theme=react-dark&bg_color=20232a&point=FFFFFF&hide_border=true" /></a>
 
 <br><br>
 <!-- ![Chaitanya](https://activity-graph.herokuapp.com/graph?username=Chaitanya31612&theme=react-dark&show_icons=true&count_private=true&area=true&hide_border=true) -->
