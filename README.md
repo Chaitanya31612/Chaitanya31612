@@ -45,15 +45,13 @@ I love working on new and exciting technologies. I have a keen interest in Web D
 
 <br>
 <p align="center">
- <div style="display: flex; align-items: flex-start;">
   
 <!-- <img src="https://metrics.lecoq.io/Chaitanya31612" alt="Github Metrics"> -->
   
 <!-- <a href="https://github.com/Chaitanya31612"> -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Chaitanya31612&count_private=true&show_icons=true&theme=algolia" />
+  <img align=top src="https://github-readme-stats.vercel.app/api?username=Chaitanya31612&count_private=true&show_icons=true&theme=algolia" width="48%" />
 <!-- </a>  -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Chaitanya31612&theme=algolia" alt="Github Streak Stats">
- </div> 
+<img align=top src="https://github-readme-streak-stats.herokuapp.com/?user=Chaitanya31612&theme=algolia" alt="Github Streak Stats" width="50%">
 </p>
 
 <br><br>
