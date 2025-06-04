@@ -22,7 +22,7 @@
 ```javascript
 const chaitanyaGupta = {
     currentRole: "Senior Software Engineer",
-    education: "B.Tech CSE (Blockchain) - CGPA: 8.7",
+    education: "B.Tech CSE (minor Blockchain)",
     experience: "2+ years in Full Stack Development",
     
     workingOn: "US Healthcare EMR System (KIPU) - Integrated Billing Team",
@@ -31,7 +31,7 @@ const chaitanyaGupta = {
         "🥇 1st Place in Veersa Health Hackathon",
         "🎯 Grand Finalist - Smart India Hackathon 2022",
         "📈 Optimized billing reports - 30% performance improvement",
-        "🔧 Led 15+ high-priority projects with zero critical defects"
+        "🔧 Led 20+ high-priority projects with zero critical defects"
     ],
     
     coding: {
@@ -193,14 +193,14 @@ Full-featured blogging platform with:
 ### 🎯 **Competitive Programming & Hackathons**
 - 🥇 **1st Place** - Veersa Health Hackathon
 - 🏆 **Grand Finalist** - Smart India Hackathon 2022 (IKS & AICTE)
-- 📊 **700+ Problems** solved on LeetCode & GeeksforGeeks
+- 📊 **1000+ Problems** solved on LeetCode & GeeksforGeeks
 - 🌍 **Google HashCode 2021**: AIR 732, Global Rank 2776
 - 🏅 **Bugcember Competition** winner at Veersa
 
 ### 💼 **Professional Recognition**
 - 🌟 **Achievers Award** at Veersa Technologies
 - 💰 **Special Bonus** for top performer group
-- 🎓 **Academic Excellence**: CGPA 8.7 (B.Tech CSE)
+- 🎓 **Academic Excellence**: CGPA 8.7 (B.Tech CSE) + CGPA 9.2 (minor Blockchain)
 
 ### 🌟 **Open Source Contributions**
 - 📝 **Doc2pen** - Handwritten docs generator
