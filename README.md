@@ -11,7 +11,7 @@
   [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=safari&logoColor=white)](https://chaitanya31612.github.io/)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/guptachaitanya/)
   [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/Chaitanya31612/)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guptachaitanya311@gmail.com)
+  
   
 </div>
 
@@ -263,7 +263,6 @@ Full-featured blogging platform with:
   
   [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_My_Website-blue?style=for-the-badge)](https://chaitanya31612.github.io/)
   [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Let's_Connect-0077B5?style=for-the-badge)](https://linkedin.com/in/guptachaitanya/)
-  [![Email](https://img.shields.io/badge/📧_Email-Get_In_Touch-D14836?style=for-the-badge)](mailto:guptachaitanya311@gmail.com)
   
   <!-- ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Chaitanya31612.Chaitanya31612) -->
 
