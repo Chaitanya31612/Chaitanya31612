@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="https://miro.medium.com/max/1600/1*0KFB17_NGTPB0XWyc4BSgQ.jpeg" alt="Hello World">
+  <!--<img src="https://miro.medium.com/max/1600/1*0KFB17_NGTPB0XWyc4BSgQ.jpeg" alt="Hello World">-->
+  ![hello-world-glitch](https://github.com/user-attachments/assets/51a3cc87-ffff-42f5-a152-91bd558b18f5)
   <h1>Hey there, fellow explorer! 🚀 I'm Chaitanya.</h1>
   <p>Crafting digital experiences and solving problems through code is my jam. Welcome to my corner of the internet!</p>
 </div>
