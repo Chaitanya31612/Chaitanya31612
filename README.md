@@ -1,107 +1,285 @@
-<!--# Namaste 🙏-->
 <div align="center">
-<!-- <img src="https://miro.medium.com/max/1600/1*0KFB17_NGTPB0XWyc4BSgQ.jpeg" alt="Hello World"> -->
-<img height="300px" src="https://media1.tenor.com/images/25de5ae4b3a35de905166d6a8cc92411/tenor.gif?itemid=13245309" alt="Hello World">
- 
+  <img src="https://miro.medium.com/max/1600/1*0KFB17_NGTPB0XWyc4BSgQ.jpeg" alt="Hello World">
+  <h1>Hey there, fellow explorer! 🚀 I'm Chaitanya.</h1>
+  <p>Crafting digital experiences and solving problems through code is my jam. Welcome to my corner of the internet!</p>
 </div>
 
-<br>
-
-<h1 align="center">Hello Geeks 👋, I'm Chaitanya Gupta</h1>
-<h3 align="center">Full Stack Web Developer and UI/UX Designer</h3>
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Web+Developer;UI/UX+Designer;Blockchain+Developer;Software+Engineer;&center=true&width=500&height=50"></a>
-</p>
-<br>
-
-<!-- Hello, I am [Chaitanya Gupta](https://www.linkedin.com/in/guptachaitanya/) I am a Full Stack Web Developer and web designer. I am fascinated by new technologies, trying every day to learn something new and exciting. Currently wishing to learn more and more exciting technologies and combine the knowledge into something useful and required by society. -->
-
-<!-- <img align="right" width="200px" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="programming meme"> -->
- 
-<!--  <img align="right" width="150px" src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" alt="gif"> -->
- 
-
-  ## 📫 About me
-  I am a Software engineer with a strong foundation in Computer Science, specializing in web development. Being adaptive to new technologies and concepts and growing by consistent learning regularly. Proficient in a range of technologies, I've successfully delivered tailored solutions for various freelance projects.
-I love working on new and exciting technologies. I have a keen interest in Web Development and I am always looking for new opportunities to learn and grow.
-
-- 🌱 I’m currently learning Web Development and designs, Cloud, Blockchain, Mobile, System Design.
-- 💬 Ask me about Web Technologies
-- 👨🏻‍💻 My Website: https://chaitanya31612.github.io/
-- 📫 Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/guptachaitanya/)
-- 😄 Pronouns: He/him
-- ⚡ Fun fact: You just need to type your username in Repository name for creating your github readme. Go ahead and do that if not already!
+<div align="center">
   
-<br>
-
-<p align="center">
- <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="Github Readme Stats" />
- <p align="center"> <img src="https://komarev.com/ghpvc/?username=Chaitanya31612" alt="Chaitanya31612"/> </p> 
-</p>
-
-
-<!--![](https://komarev.com/ghpvc/?username=Chaitanya31612)-->
-
-
-<br>
-<p align="center">
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Software+Engineer;Full+Stack+Developer;Open+Source+Contributor;Problem+Solver;Blockchain;)
   
-<!-- <img src="https://metrics.lecoq.io/Chaitanya31612" alt="Github Metrics"> -->
+  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=safari&logoColor=white)](https://chaitanya31612.github.io/)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/guptachaitanya/)
+  [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/Chaitanya31612/)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guptachaitanya311@gmail.com)
   
-<!-- <a href="https://github.com/Chaitanya31612"> -->
-  <img align=top src="https://github-readme-stats.vercel.app/api?username=Chaitanya31612&count_private=true&show_icons=true&theme=algolia" width="48%" />
-<!-- </a>  -->
-<img align=top src="https://github-readme-streak-stats.herokuapp.com/?user=Chaitanya31612&theme=algolia" alt="Github Streak Stats" width="50%">
-</p>
+</div>
 
-<br><br>
-## ⚡ Technologies
+---
 
-<p align="center">
-<img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
-<img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
- <img alt="SCSS" src="https://img.shields.io/badge/sass%20-%231572B6.svg?&style=for-the-badge&logo=sass&logoColor=white"/>
- <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap%20-%231572B6.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
-<img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
- <img alt="Typescript" src="https://img.shields.io/badge/typescript%20-%23323330.svg?&style=for-the-badge&logo=typescript&logoColor=%23F7DF1E"/>
-<img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-<img alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
- <img alt="ExpressJS" src="https://img.shields.io/badge/express%20-%23323330.svg?&style=for-the-badge&logo=express&logoColor=%23F7DF1E"/>
-<img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img alt="Java" src ="https://img.shields.io/badge/java%20-%23E34F26.svg?&style=for-the-badge&logo=java&logoColor=white"/>
-<img alt="C" src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>
-<img alt="C++" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>
-<img alt="Python" src="https://img.shields.io/badge/python%20-%2300599C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
-<img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
-<img alt="Git" src="https://img.shields.io/badge/git%20-%23E34F26.svg?&style=for-the-badge&logo=git&logoColor=white"/>
-<img alt="Solidity" src="https://img.shields.io/badge/solidity%20-%2300599C.svg?&style=for-the-badge&logo=solidity&logoColor=white"/>
-<img alt="MySQL" src="https://img.shields.io/badge/mysql%20-%2300599C.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
- <img alt="PostgreSQL" src="https://img.shields.io/badge/postgresql%20-%2300599C.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
- <img alt="Ruby" src="https://img.shields.io/badge/ruby%20-%2300599C.svg?&style=for-the-badge&logo=ruby&logoColor=white"/>
- <img alt="Ruby on Rails" src="https://img.shields.io/badge/-Ruby%20on%20Rails-black?style=for-the-badge&logo=Ruby%20on%20Rails&logoColor=white"/>
-<br/>
-</p>
+## 🚀 About Me
 
-<br>
+```javascript
+const chaitanyaGupta = {
+    currentRole: "Senior Software Engineer",
+    education: "B.Tech CSE (Blockchain) - CGPA: 8.7",
+    experience: "2+ years in Full Stack Development",
+    
+    workingOn: "US Healthcare EMR System (KIPU) - Integrated Billing Team",
+    achievements: [
+        "🏆 Achievers Award at Veersa for exceptional contributions",
+        "🥇 1st Place in Veersa Health Hackathon",
+        "🎯 Grand Finalist - Smart India Hackathon 2022",
+        "📈 Optimized billing reports - 30% performance improvement",
+        "🔧 Led 15+ high-priority projects with zero critical defects"
+    ],
+    
+    coding: {
+        problemsSolved: "1000+ on LeetCode & GeeksforGeeks",
+        googleHashcode: "AIR 732, Global Rank 2776 (Hub IITD - 4th globally)",
+        openSource: ["SWOC", "NWOC", "Doc2pen", "CRM-MERN"]
+    },
+    
+    specialties: [
+        "Full Stack Development", 
+        "Healthcare Software", 
+        "E-commerce Platforms",
+        "Real-time Applications",
+        "Performance Optimization"
+    ],
+    
+    currentFocus: "Building scalable healthcare solutions & improving system performance",
+    funFact: "I can architect microservices and solve LeetCode problems with equal enthusiasm! 🧩"
+};
+```
 
-# Github Stats 📈
+---
 
+## 💼 Professional Experience
+
+### 🏥 **Senior Software Engineer** - Veersa Technologies
+*Feb 2023 - Present | Ruby on Rails, Vue.js, PostgreSQL*
+
+- 🎯 **Impact**: Working on **KIPU** - Critical US Healthcare EMR system serving thousands of patients
+- ⚡ **Performance**: Optimized billing exports & reports, achieving **30% faster processing**
+- 🔄 **Migration**: Successfully transitioned **25+ Rails APIs** for Vue frontend compatibility
+- 🚀 **Leadership**: Led **20+ high-priority projects** with architectural design & documentation
+- 🏆 **Recognition**: **Achievers Award** recipient for exceptional quality & minimal defects
+
+### 💻 **Full Stack MERN Developer** - MarketInc
+*Aug 2022 - Oct 2022 | React.js, Node.js, MongoDB*
+
+- 📊 Developed **3 major statistical dashboards** for ERP system
+- 📈 Integrated dynamic charts using **ApexCharts** for data visualization
+
+---
+
+## 🛠️ Tech Arsenal
 
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chaitanya31612&layout=compact&langs_count=10&hide_border=false&theme=algolia" width="45%" />
-</a>
-<br><br>
-<a href="https://github.com/Chaitanya31612/github-readme-activity-graph"><img alt="Chaitanya's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Chaitanya31612&theme=react-dark&bg_color=20232a&point=FFFFFF&hide_border=true" /></a>
 
-<br><br>
-<!-- ![Chaitanya](https://activity-graph.herokuapp.com/graph?username=Chaitanya31612&theme=react-dark&show_icons=true&count_private=true&area=true&hide_border=true) -->
-<!--<img src="https://activity-graph.herokuapp.com/graph?username=Chaitanya31612&show_icons=true&count_private=true&area=true&hide_border=true" /> -->
+### 💻 Languages & Core
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-<h3 align="center">Find me here:</h3>
-<p align="center">
- <a href="https://www.leetcode.com/Chaitanya31612" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Chaitanya31612/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/guptachaitanya31/practice/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="gfg" height="30" width="40" /></a>
- <a href="https://www.linkedin.com/in/guptachaitanya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="guptachaitanya" height="30" width="40" /></a>
-<a href="https://medium.com/@guptachaitanya31" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@guptachaitanya31" height="30" width="40" /></a>
-<a href="https://twitter.com/Chaitan33456747" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Chaitan33456747" height="30" width="40" /></a>
-</p>
+### 🎨 Frontend Mastery
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+
+### ⚙️ Backend & Infrastructure
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+
+### 🗄️ Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
+### ☁️ DevOps & Cloud
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+
+</div>
+
+---
+
+## 🏗️ Featured Projects
+
+### 🛒 **Amazon Clone - Microservices E-commerce**
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Chaitanya31612/microservices-amazon-clone)
+
+**Polyglot Microservices Architecture** with:
+- 🔐 **Auth Service**: Node.js + MongoDB
+- 📦 **Products**: Java + Spring Boot + PostgreSQL
+- 🛒 **Cart**: Go + Redis
+- 💳 **Orders/Payments**: Node.js + MongoDB + Stripe
+- 🎨 **Frontend**: Next.js
+- 📦 **NPM Package**: Published `@cgecommerceproject/common`
+
+**Tech**: Kubernetes, Docker, Kafka, Microservices
+
+### 🏥 **DoctorzBook - Healthcare Booking Platform**
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Chaitanya31612/DoctorzBook)
+
+Real-time appointment booking with:
+- 📍 **Location-based** doctor discovery
+- ⚡ **Real-time** booking system
+- 🚫 **Conflict prevention** algorithm
+- 📱 **Responsive** design
+
+**Tech**: React, Redux, Node.js, Express, MongoDB, Socket.io
+
+### 🌐 **Crowdy - Blockchain Crowdfunding**
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Chaitanya31612/crowdy-dapp)
+
+Transparent crowdfunding platform leveraging:
+- ⛓️ **Blockchain** technology for transparency
+- 💎 **Smart contracts** for security
+- 🎯 **Campaign management** system
+
+**Tech**: Blockchain, Solidity, React, Web3
+
+### 📝 **Alpha Blog - Rails CMS**
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Chaitanya31612/alpha-blog-ror)
+
+Full-featured blogging platform with:
+- 🔐 **Authentication & Authorization**
+- 🔍 **Advanced search** capabilities
+- 💬 **Real-time chat** integration
+- 🧪 **Comprehensive RSpec** testing
+
+**Tech**: Ruby on Rails, React, PostgreSQL, RSpec
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Chaitanya31612&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chaitanya31612&layout=compact&langs_count=8&theme=tokyonight"/>
+  
+</div>
+
+<div align="center">
+  
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Chaitanya31612&theme=tokyonight)
+  
+</div>
+
+---
+
+## 🏆 Achievements & Recognition
+
+<div align="center">
+  
+  ![trophy](https://github-profile-trophy.vercel.app/?username=Chaitanya31612&theme=onedark&column=7)
+  
+</div>
+
+### 🎯 **Competitive Programming & Hackathons**
+- 🥇 **1st Place** - Veersa Health Hackathon
+- 🏆 **Grand Finalist** - Smart India Hackathon 2022 (IKS & AICTE)
+- 📊 **700+ Problems** solved on LeetCode & GeeksforGeeks
+- 🌍 **Google HashCode 2021**: AIR 732, Global Rank 2776
+- 🏅 **Bugcember Competition** winner at Veersa
+
+### 💼 **Professional Recognition**
+- 🌟 **Achievers Award** at Veersa Technologies
+- 💰 **Special Bonus** for top performer group
+- 🎓 **Academic Excellence**: CGPA 8.7 (B.Tech CSE)
+
+### 🌟 **Open Source Contributions**
+- 📝 **Doc2pen** - Handwritten docs generator
+- 🔧 **CRM-MERN** - Customer relationship management
+- 🎪 **SWOC & NWOC** participant and contributor
+
+---
+
+## 📈 Current Focus & Goals
+
+```yaml
+🎯 Professional Goals:
+  - Contributing to Healthcare Software at Veersa
+  - Improving system performance and user experience
+  - Learning advanced development patterns
+  - Contributing to open-source projects
+
+🔬 Learning & Development:
+  - System Design and scalability
+  - Cloud technologies and deployment  
+  - Backend optimization techniques
+  - Modern frontend frameworks
+
+🤝 Collaboration Interests:
+  - Full stack web applications
+  - Open source contributions
+  - Healthcare technology
+  - Developer tools and workflows
+```
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+  
+  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Chaitanya31612&theme=tokyo-night)
+  
+</div>
+
+---
+
+## 💡 Development Philosophy
+
+<div align="center">
+  
+  > *"Great software is built by solving real problems with clean, scalable code that makes a difference in people's lives."*
+  
+  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+  
+</div>
+
+---
+
+## 📫 Let's Connect & Collaborate!
+
+<div align="center">
+  
+  **I'm always excited to discuss technology, share knowledge, and collaborate on impactful projects!**
+  
+  [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_My_Website-blue?style=for-the-badge)](https://chaitanya31612.github.io/)
+  [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Let's_Connect-0077B5?style=for-the-badge)](https://linkedin.com/in/guptachaitanya/)
+  [![Email](https://img.shields.io/badge/📧_Email-Get_In_Touch-D14836?style=for-the-badge)](mailto:guptachaitanya311@gmail.com)
+  
+  <!-- ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Chaitanya31612.Chaitanya31612) -->
+
+  <p align="center">
+ <!--<img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="Github Readme Stats" /> -->
+  <p align="center"> <img src="https://komarev.com/ghpvc/?username=Chaitanya31612" alt="Chaitanya31612"/> </p> 
+ </p>
+  
+</div>
+
+---
+
+<div align="center">
+  
+  ### 🚀 "Code, Create, Contribute - Building the future, one commit at a time!"
+  
+  **Thanks for visiting! Let's build something amazing together! ⭐**
+  
+</div>
